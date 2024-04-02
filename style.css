@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background-color: rgb(61, 67, 151);
+  z-index: 7;
+  position: relative;
+}
+nav .navbar {
+  height: 100%;
+  max-width: 1850px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+}
+.links li a:hover {
+  color: rgb(216, 216, 216);
+}
+
+nav .navbar .nav-links .links {
+  display: flex;
+  line-height: 90px;
+  margin-top: -11px;
+}
+nav .navbar .nav-links {
+  height: 100%;
+  line-height: 70px   ;
+}
+nav .navbar .nav-links {
+  height: 100%;
+}
+nav .navbar .nav-links .links li {
+  list-style: none;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+}
+nav .navbar .nav-links .links a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.nav .navbarr {
+  height: 100%;
+  max-width: 1850px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+}
+.links li a {
+  color: rgb(255, 255, 255);
+}
+
+.nav .navbarr .nav-linkss .linkss {
+  display: flex;
+  line-height: 90px;
+}
+.nav .navbarr .nav-linkss {
+  height: 100%;
+  line-height: 70px   ;
+}
+.nav .navbarr .nav-linkss {
+  height: 100%;
+
+}
+.nav .navbarr .nav-linkss .linkss li {
+  list-style: none;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+}
+.nav .navbarr .nav-linkss .linkss a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+.svg {
+  margin-top: -51px;
+  margin-left: 665px;
+  color: aliceblue;
+}
+.ss {
+  margin-left: 170px;
+  margin-top: 50px;
+  z-index: 7;
+  position: relative;
+  color: #fff;
+}
+.ss1 {
+  margin-top: -40px;
+  margin-left: 160px;
+  color: rgb(58, 58, 150);
+}
+
+
+.nav .navbarm {
+  height: 100%;
+  max-width: 1850px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+  color: rgb(0, 0, 0);
+}
+.linksmm li a:hover {
+  color: rgb(216, 216, 216);
+}
+
+.nav .navbarm .nav-linksm .linksmm {
+  display: flex;
+  line-height: 90px;
+  margin-top: -5px;
+}
+.nav .navbarm .nav-linksm {
+  height: 100%;
+  line-height: 70px   ;
+}
+.nav .navbarm .nav-linksm {
+  height: 100%;
+}
+.nav .navbarm .nav-linksm .linksmm li {
+  list-style: none;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+}
+.nav .navbarm .nav-linksm .linksmm a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+.linksmm {
+  margin-left: 460px;
+  margin-top: -10px;
+}
+.linksmm li a {
+  color: black;
+  font-family: Tahoma;
+}
+.z {
+  background-color: blue;
+  height: 400px;
+  margin-top: 20px;
+}
+.z1 {
+  margin-top: -130px;
+}
